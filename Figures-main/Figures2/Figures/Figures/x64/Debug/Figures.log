@@ -1,0 +1,44 @@
+﻿  main.cpp
+C:\Users\EVGENE\source\repos\Figures-main\Figures-main\Figures2\Figures\Figures\main.cpp(75,40): warning C4244: аргумент: преобразование "_Ty2" в "int", возможна потеря данных
+          with
+          [
+              _Ty2=double
+          ]
+C:\Users\EVGENE\source\repos\Figures-main\Figures-main\Figures2\Figures\Figures\main.cpp(74,76): warning C4244: аргумент: преобразование "_Ty1" в "int", возможна потеря данных
+          with
+          [
+              _Ty1=double
+          ]
+C:\Users\EVGENE\source\repos\Figures-main\Figures-main\Figures2\Figures\Figures\main.cpp(74,48): warning C4244: аргумент: преобразование "_Ty2" в "int", возможна потеря данных
+          with
+          [
+              _Ty2=double
+          ]
+C:\Users\EVGENE\source\repos\Figures-main\Figures-main\Figures2\Figures\Figures\main.cpp(74,31): warning C4244: аргумент: преобразование "_Ty1" в "int", возможна потеря данных
+          with
+          [
+              _Ty1=double
+          ]
+C:\Users\EVGENE\source\repos\Figures-main\Figures-main\Figures2\Figures\Figures\main.cpp(108,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\EVGENE\source\repos\Figures-main\Figures-main\Figures2\Figures\Figures\main.cpp(108,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\EVGENE\source\repos\Figures-main\Figures-main\Figures2\Figures\Figures\main.cpp(135,67): warning C4244: аргумент: преобразование "_Ty2" в "int", возможна потеря данных
+          with
+          [
+              _Ty2=double
+          ]
+C:\Users\EVGENE\source\repos\Figures-main\Figures-main\Figures2\Figures\Figures\main.cpp(135,40): warning C4244: аргумент: преобразование "_Ty1" в "int", возможна потеря данных
+          with
+          [
+              _Ty1=double
+          ]
+C:\Users\EVGENE\source\repos\Figures-main\Figures-main\Figures2\Figures\Figures\main.cpp(134,48): warning C4244: аргумент: преобразование "_Ty2" в "int", возможна потеря данных
+          with
+          [
+              _Ty2=double
+          ]
+C:\Users\EVGENE\source\repos\Figures-main\Figures-main\Figures2\Figures\Figures\main.cpp(134,31): warning C4244: аргумент: преобразование "_Ty1" в "int", возможна потеря данных
+          with
+          [
+              _Ty1=double
+          ]
+  Figures.vcxproj -> C:\Users\EVGENE\source\repos\Figures-main\Figures-main\Figures2\Figures\x64\Debug\Figures.exe
